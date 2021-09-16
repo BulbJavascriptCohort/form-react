@@ -1,0 +1,13 @@
+.card{
+    height: fit-content;
+    text-align: left;
+   
+    
+    
+}
+
+.container {
+    max-width: 629px;
+    padding-top: 5px;
+    padding-bottom: 5px
+}
